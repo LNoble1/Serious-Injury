@@ -1,0 +1,21 @@
+
+
+
+
+
+```{r, echo = FALSE}
+library(googlesheets4)
+library(googledrive)
+library(dplyr)
+
+Year1<- 2019
+
+
+googledrive::drive_auth()
+MSI <- read_sheet("https://docs.google.com/spreadsheets/d/10Lin6dPEMr_VO0n-Um455IlmkMBrnU8zgzaJGaiAOPI/edit?gid=1774480449#gid=1774480449")
+
+MSIrw<- MSI %>%
+  filter(Year>=Year1, Year<=Year1+4, Determined Taxon =="RIWH") 
+ # %>% fliter(Determined Taxon =="RIWH")
+
+```
