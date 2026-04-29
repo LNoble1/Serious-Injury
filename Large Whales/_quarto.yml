@@ -1,0 +1,22 @@
+  type: website
+  render:
+    - HUWH_2024_draft/HUWH_2024_draft.qmd
+    - HUWH_2019/HUWH_2019.qmd
+
+
+website:
+  title: "Marine Mammal Stock Assessment Report - IN DEVELOPMENT"
+  navbar:
+    left:
+      - file: HUWH_2024_draft/HUWH_2024_draft.qmd
+        text: Gulf of Maine Humpback - 2024 draft
+      - file: HUWH_2019/HUWH_2019.qmd
+        text: Gulf of Maine Humpback - 2019
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/sar_theme.scss
+    toc: true

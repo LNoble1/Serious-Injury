@@ -1,0 +1,21 @@
+project:
+  type: website
+  render:
+    - Large Whales/LargeWhaleMSI.qmd
+    - Large Whales/pakicetus-stockC.qmd
+
+website:
+  title: "MSI Report - IN DEVELOPMENT"
+  navbar:
+    left:
+      - file: Large Whales/LargeWhaleMSI.qmd
+        text: MSI- 2025 draft
+      - file: Large Whales/pakicetus-stockC.qmd
+        text: Gulf of Maine Humpback - 2019
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/sar_theme.scss
+    toc: true
