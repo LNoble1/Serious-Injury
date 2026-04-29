@@ -1,4 +1,3 @@
-
 ---
 title: "Evaluation.... MSI report"
 subtitle: "2019-2023"
@@ -39,6 +38,55 @@ editor:
     wrap: 72
 ---
 
+```{r}
+#| label: setup
+#| include: false
 
+library(dplyr)
+library(ggplot2)
+library(purrr)
+library(fs)
 
-New MSI report
+# source all R scripts in the R/ folder
+r_files <- fs::dir_ls(here::here("R"), glob = "*.R")
+purrr::map(r_files, source)
+
+# set the image device to ragg_png for better quality plots
+knitr::opts_chunk$set(dev = "ragg_png")
+
+knitr::opts_chunk$set(
+  warning = FALSE,
+  message = FALSE,
+  echo = FALSE
+)
+
+# make sure large numbers in text are formatted with commas
+knitr::knit_hooks$set(
+  inline = function(x) {
+    if (!is.numeric(x)) {
+      x
+    } else {
+      prettyNum(x, big.mark = ",")
+    }
+  }
+)
+
+options(scipen = 3, digits = 2)
+
+# set the ggplot theme base font size and font family
+theme_set(theme_minimal(base_size = 12, base_family = "Roboto"))
+
+# function (for gt tables) to format numbers based on GAMMS specs
+fmt_gamms_numbers <- function(x) {
+  case_when(
+    x <= 1 ~ formatC(x, format = "f", digits = 2),
+    x > 1 & x <= 10 ~ formatC(x, format = "f", digits = 1),
+    x > 10 ~ formatC(x, format = "f", digits = 0, big.mark = ","),
+    TRUE ~ "format error"
+  )
+}
+```
+
+##ABSTRACT New MSI report
+
+##INTRODUCTION
