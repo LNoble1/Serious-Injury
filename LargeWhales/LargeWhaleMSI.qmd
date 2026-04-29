@@ -1,20 +1,20 @@
 
 ---
-title: "HUMPBACK WHALE (<i>Megaptera novaeangliae</i>):"
-subtitle: "(<i>Megaptera novaeangliae</i>):"
+title: "Evaluation.... MSI report"
+subtitle: "2019-2023"
 date: today
 publication-date: 2050-01-01
 date-format: "MMMM DD, YYYY"
 citeproc: true
-bibliography: ../assets/HUWH.yaml
+bibliography: ../assets/references_pakicetus.yaml
 csl: ../assets/apa.csl
 author:
-  - name: Danielle Cholewiak
-    email: dani.cholewiak@noaa.gov
+  - name: Allison Henry
+    email: allison.henryk@noaa.gov
     orcid: 0000-0001-111-1111
     affiliations:
       - ref: 1
-  - name: Beth Josephson
+  - name: Charlie Brown
     email: charles.darwin@noaa.gov
     affiliations:
       - ref: 1
