@@ -1,41 +1,53 @@
 ---
-title: "Evaluation.... MSI report"
+title: "Evaluation of Serious Injury and Mortality of Baleen Whales Along the Gulf of Mexico, United States East Coast, and Atlantic Canadian Provinces"
 subtitle: "2019-2023"
 date: today
 publication-date: 2050-01-01
 date-format: "MMMM DD, YYYY"
 citeproc: true
-bibliography: ../assets/references_pakicetus.yaml
+#bibliography: ../assets/references_pakicetus.yaml
 csl: ../assets/apa.csl
+
 author:
   - name: Allison Henry
-    email: allison.henryk@noaa.gov
+    email: allison.henry@noaa.gov
     orcid: 0000-0001-111-1111
     affiliations:
       - ref: 1
-  - name: Charlie Brown
+  - name: somebody else
     email: charles.darwin@noaa.gov
     affiliations:
       - ref: 1
+
 affiliations:
   - id: 1
     name: Northeast Fisheries Science Center
     department: National Marine Fisheries Service
-    address: 166 Water Street
+    address: 1600 Water Street
     city: Woods Hole
-    state: WA
+    state: MA
+
 execute: 
   echo: false
   warning: false
   message: false
+
 format:
   html: 
     out-width: "90%"
     fig-width: 9
     fig-asp: 0.618
-editor: 
-  markdown: 
-    wrap: 72
+  nmfs-sar-pdf-typst:
+    nmfs-region: World
+    sar-year: 2025
+    stock-name: "Stock B"
+    common-name: "Pakicetus"
+    genus-species: "Pakicetus sp."
+    linenumbering: true
+    keep-typ: false
+    fig-width: 9
+    fig-asp: 0.618
+    fig-dpi: 600
 ---
 
 ```{r}
@@ -87,6 +99,36 @@ fmt_gamms_numbers <- function(x) {
 }
 ```
 
-##ABSTRACT New MSI report
+## ABSTRACT
 
-##INTRODUCTION
+Opportunistic reports were used to calculate rates of human-caused serious injury and mortality to baleen whale stocks along the Gulf of Mexico, United States East Coast, and Atlantic Canadian provinces from 2019 through 2023. All available information for reported whale injury and mortality events was evaluated using established criteria to assign injury severity and cause of injury or death for each event. The average annual rate of detected human-caused serious injury and mortality during the period was 5.0 for western North Atlantic right whales (Eubalaena glacialis), 14.6 for Gulf of Maine humpback whales (Megaptera
+novaeangliae), 1.49 for western North Atlantic fin whales (Balaenoptera physalus), 6.75 for Canadian East Coast minke whales (B. acutorostrata), 0.2 for Nova Scotian sei whales (B. borealis), 0 for western North Atlantic blue whales (B. musculus), and 0.2 for northern Gulf of Mexico Rice’s whales (B. ricei). The number of serious injuries and mortalities not reported is unknown, and actual levels may be much higher.
+
+## INTRODUCTION
+
+The Marine Mammal Protection Act (MMPA) requires the National Marine Fisheries
+Service (NMFS) to estimate annual levels of human-caused serious injury and mortality to marine mammal stocks (MMPA 1972 [Sect. 117]) and to categorize commercial fisheries based on their frequency of incidental serious injury and mortality of marine mammals (MMPA 1972 [Sect. 118]). Criteria for serious injury (SI) determinations were addressed at NMFS-convened workshops in 1997 and 2007 (Angliss and DeMaster 1998; Andersen et al. 2008), and in January
+2012, the agency published national guidelines for distinguishing serious from non-serious injuries (NSI) of marine mammals 1 . There are currently no national guidelines for determining cause of death, but Northeast Fisheries Science Center (NEFSC) staff have used a set of criteria to evaluate reports of human-caused mortality to baleen whales since 2005 (Cole et al. 2005; Henry et al. 2014). This report presents the results of applying the national SI criteria and the NEFSC mortality criteria to all reported baleen whale events along the Gulf of Mexico, United States East Coast, and Atlantic Canadian provinces from 2019 through 2023. Affected stocks include the western North Atlantic right whale (Eubalaena glacialis), Gulf of Maine humpback whale (Megaptera novaeangliae), western North Atlantic fin whale (Balaenoptera physalus), Canadian East Coast minke whale (B. acutorostrata), Nova Scotian sei whale (B. borealis), western North Atlantic blue whale (B. musculus), and northern Gulf of Mexico Rice’s whale (B.
+ricei).
+
+## METHODS
+
+
+
+## RESULTS ANS DISCUSSION
+
+
+
+### Species Accounts
+
+
+
+## ACKNOWLEDGEMENTS
+
+
+
+## TABLES
+
+
+
+## REFERENCES CITED

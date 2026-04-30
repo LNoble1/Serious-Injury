@@ -2,7 +2,7 @@ project:
   type: website
   render:
     - LargeWhales/LargeWhaleMSI.qmd
-
+    - LargeWhales/pakicetus-stockC.qmd
 
 website:
   title: "MSI Report - IN DEVELOPMENT"
@@ -10,7 +10,8 @@ website:
     left:
       - file: LargeWhales/LargeWhaleMSI.qmd
         text: MSI- 2025 draft
-
+      - file: LargeWhales/pakicetus-stockC.qmd
+        text: pakicetus
 
 format:
   html:
