@@ -1,17 +1,16 @@
 project:
   type: website
   render:
-    - LargeWhales/LargeWhaleMSI.qmd
-    - LargeWhales/pakicetus-stockC.qmd
+    - Small Cetacean and Pinnipeds/2018-2023.qmd
+ 
 
 website:
   title: "MSI Report - IN DEVELOPMENT"
   navbar:
     left:
-      - file: LargeWhales/LargeWhaleMSI.qmd
-        text: MSI- 2025 draft
-      - file: LargeWhales/pakicetus-stockC.qmd
-        text: pakicetus
+      - file: Small Cetacean and Pinnipeds/2018-2023.qmd
+        text: MSI- 2018-2023 draft
+
 
 format:
   html:
