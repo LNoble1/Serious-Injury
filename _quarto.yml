@@ -1,14 +1,14 @@
 project:
   type: website
   render:
-    - LargeWhales/pakicetus-stock.qmd
+    - LargeWhales/MSIsmalls.qmd
  
 
 website:
   title: "MSI Report - IN DEVELOPMENT"
   navbar:
     left:
-      - file: LargeWhales/pakicetus-stock.qmd
+      - file: LargeWhales/MSIsmalls.qmd
         text: MSI- 2018-2023 draft
 
 
