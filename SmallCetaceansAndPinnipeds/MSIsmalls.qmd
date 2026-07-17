@@ -114,24 +114,22 @@ The Marine Mammal Protection Act (MMPA) requires the National Marine Fisheries S
 
 Electronic records of all small cetacean and pinniped bycatch that were coded as alive or condition unknown for the 5-year period (`r sprintf("%d", as.integer(year1))`-`r sprintf("%d", as.integer(year1+4))`) were extracted from the Northeast Fisheries Observer Program (NEFOP) database. A principal component of these records included OBS/ASM notes that provided information on entanglement characteristics (e.g., animal in cod end), crew handling (e.g., rope tied animal, animals lifted overboard), animal condition (e.g., cut on dorsal flank, some blood), and state of released animal (e.g., swam away quickly, swimming sluggishly at surface, immediately sank). These data were independently compared to small cetacean (S) and pinniped (P) criteria contained in the SI guidance document (Appendix) by 2 marine mammal researchers in the NEFSC Protected Species Division to determine their status (e.g., serious injury \[SI\], nonserious injury \[NSI\], uninjured \[UI\], Dead \[D\], or could not be determined \[CBD\]). The 2 evaluators compared their determinations, and all differences were discussed to obtain agreement. Details of each injury from the fishery observer programs and its determination are presented in Table 1. Final injury determinations and mortality events were tabulated to estimate the annual proportion of observed SI animals relative to the other observed determinations by gear type and species (Table 2). Proportions are used in stock assessment reports to partition the expanded bycatch estimate into serious injury vs. mortality (Hayes et al. 2024). Determinations for 2017-2021 have been previously published (Josephson and Lyssikatos 2023). Cases where a determination could not be made (CBD) were treated conservatively and included with the dead animals and hence represented in the final mortality and serious injury estimates reported in the annual stock assessment reports (Hayes et al. 2024). Offshore, migratory, and estuarine coastal bottlenose dolphin (Tursiops truncatus truncatus) injury determinations were analyzed and reported by the NOAA Fisheries Southeast Fisheries Science Center (Maze-Foley et al. 2019). Species codes and gear codes used in this report are contained, respectively, in Tables 3 and 4. The statistical area designations are presented in Figure 1. As a response to the ASRG and other agency reviews, the NMFS has started to include the serious injuries of marine mammals in stock assessment reports, as documented in the National Marine Mammal Health and Stranding database. In the Northeast, the majority of animals reported as live strandings with evidence of human interaction are pinnipeds. In the 2023 Marine Mammal Stock Assessment Report (2024), a table was provided in the gray seal (Halichoerus grypus) report that itemized gray seal serious injuries from 2017-2021 by type of interaction (fishery vs. other human interaction) and whether the animal was disentangled and released. Upon review of the 2022 data, and amid ongoing discussions with stranding network partners, managers, and scientific reviewers, it has been determined that a portion of the records that were in the database did not follow reporting guidelines that were in place at the time . Namely, these records represented sightings of entangled animals for which there was no stranding response. This resulted in unevenness in documentation of cases reported as entangled or injured animals and may also have resulted in double counting. We have made the decision, starting with the year 2022, to add the stranding database records to the serious injury determination process but only for cases that received stranding responses to be consistent with the national reporting guidelines. Table 5 itemizes and summarizes the 2022 stranding data that was reviewed, and Table 6 presents the 2017-2021 data previously reported in the gray seal stock assessment report. NOAA Fisheries is currently updating and clarifying the guidelines and forms for reporting live entangled pinnipeds, which will improve the data used in the future for serious injury determinations.
 
-## CURRENT AND MAXIMUM NET PRODUCTIVITY RATES
+## RESULTS AND DISCUSSION
+### Small Cetaceans
+#### Observer Records
+#### Stranding Records
 
-This section should describe what is known about the current and maximum net productivity rates. Default values should be used for Rmax in the absence of stock-specific measured values. See Section 3.2.3 for additional guidance.
 
-## POTENTIAL BIOLOGICAL REMOVAL
+### Pinnipeds
+#### Observer Records
+#### Stranding Records
 
-This section of the SAR should provide a summary of the values used to calculate PBR and details its calculation. See Section 3.2 for additional guidance.
 
-## ANNUAL HUMAN-CAUSED MORTALITY AND SERIOUS INJURY
 
-This section should contain a complete description of what is known about human-caused M/SI for the covered time period. It should include a specific sub heading entitled “Fisheries Information” that describes fishery-related M/SI and may include other sub headings as appropriate, such as “Alaska Native Subsistence/Harvest Information”, and “Other Mortality”, among others. See Section 3.3 for additional guidance.
+## ACKNOWLEDGEMENTS
 
-## STATUS OF STOCK
+We thank the onboard observers, at-sea monitors, and stranding responders for collecting the data and the staff in the Northeast Fisheries Science Center, Fisheries Monitoring Operations Branch, for their assistance in obtaining electronic copies of data logs and pictures required for our SI determinations.  
 
-This section should summarize four types of “status” of the stock: (1) current legal designation under the MMPA and ESA, (2) status relative to OSP (within OSP, below OSP, or unknown), (3) designation of strategic or not, and (4) a summary of trends in abundance and human-caused M/SI. See Section 3.4 for additional guidance.
-
-## OTHER FACTORS THAT MAY BE CAUSING A DECLINE OR IMPEDING RECOVERY
-
-This section, which is required for strategic stocks but otherwise optional, should describe any other factors affecting the status of the stock. It should only be a summary of the issue and should reference publications. See Section 3.5 for additional guidance.
+## TABLES AND FIGURES
 
 ## REFERENCES CITED
