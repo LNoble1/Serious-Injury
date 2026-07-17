@@ -1,6 +1,6 @@
 ---
-title: "Pakicetus Stock B"
-subtitle: "_Pakicetus sp_"
+title: "NEFSC MSI Determinations"
+subtitle: "Small Cetaceans and Pinnipeds"
 date: today
 publication-date: 2050-01-01
 date-format: "MMMM DD, YYYY"
@@ -9,7 +9,7 @@ citeproc: true
 csl: ../assets/apa.csl
 
 author:
-  - name: Carl Linnaeus
+  - name: Lauren Noble
     email: carl.linnaeus@noaa.gov
     orcid: 0000-0001-111-1111
     affiliations:

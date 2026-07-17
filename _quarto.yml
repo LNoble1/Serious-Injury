@@ -1,14 +1,14 @@
 project:
   type: website
   render:
-    - Small CetPinn/MSI_smalls_2019-2013.qmd
+    - LargeWhales/pakicetus-stockC.qmd
  
 
 website:
   title: "MSI Report - IN DEVELOPMENT"
   navbar:
     left:
-      - file: Small CetPinn/MSI_smalls_2019-2013.qmd
+      - file: LargeWhales/pakicetus-stockC.qmd
         text: MSI- 2018-2023 draft
 
 
