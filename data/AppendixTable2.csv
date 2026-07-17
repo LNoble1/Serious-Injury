@@ -1,0 +1,23 @@
+Category,Injury/Information,Injury Determination,Additional factors for evaluating whether “case specific” injuries are serious or non-serious (additional factors at end of table)
+P1,"A free-swimming animal observed at a date later than its human interaction, exhibiting signs of declining health believed to be resulting from initial injury (e.g., a marked change in body condition, tissue necrosis, emaciation, gangrene).",SI,
+P2,Ingested gear or hook(s),SI,
+P3,Visible blood loss,Case specific,"Amount of blood, location of the bleeding injury, duration of bleeding"
+P4,"Animal brought on vessel deck following entanglement/entrapment (excluding scientific research targeting marine mammals and authorized as such under a NMFS scientific research permit, where the animal is brought on and placed on the vessel deck in a controlled manner)",Case specific,
+,,,"Manner in which animal is brought on deck, length of time animal is on deck, environmental conditions (e.g., temperature)"
+P5a,"Hook(s) in mouth (excluding criterion P5b), regardless of the presence of gear",SI,
+P5b,"Hook(s) confirmed in head (excluding criterion P5a) or in lip only (external tissue outside of teeth), no trailing gear",Case specific,"Location on head (e.g., eye), depth of penetration, type of hook, prolonged restraint or struggle that could lead to capture myopathy, size of hook, impairing ability to feed"
+P5c,"Hook(s) in any body part, but hook(s) is removed or pulls out",Case specific,"Prolonged restraint or struggle that could lead to capture myopathy, location of hooking on the body, depth of hook, hook pulls out cleanly vs. causes further injury during dehooking, method used to remove hook, length of time hooked"
+P5d,"Hook(s) in appendage or body (excluding criteria P5a-c and P12), without trailing gear or with trailing gear that does not have the potential to: 1) become a constricting wrap on animal; 2) be ingested; 3) accumulate drag; or 4) become snagged on something in the environment, anchoring the animal",NSI,
+P6,"Gear attached in any manner to free- swimming animal with potential to: 1) become a constricting wrap on animal; 2) be ingested; 3) accumulate drag; or 4) become snagged on something in the environment, anchoring the animal",SI,
+P7a,Anchored/immobilized and not freed,SI,
+P7b,"Anchored, immobilized, or entangled before being freed without gear attached",Case specific,"Duration of entanglement, prolonged restraint or struggle that could lead to capture myopathy, type of fishing gear, where/how gear immobilized animal, associated injury (where directly or indirectly caused by initial entanglement), response of individual"
+P8a,Gear wrapped and constricting any body part or likely to become constricting as the animal moves or grows,SI,
+P8b,Gear wrapped loosely on any body part,Case specific,"Type and amount of fishing gear, animal body size relative to gear (species, age), effect on movement, species sensitivity"
+P9,Body trauma not covered by any other criteria,Case specific,"Location of trauma on body, depth (superficial or to the bone, penetrating muscle or organs), length of laceration(s), number of lacerations, cleanliness (compression vs. tearing), amount and duration of blood loss, risk of infection or disease transmission (e.g., dog bites)"
+P10,"Visible fracture(s), excluding broken appendages (see criterion P13 for broken appendages)",SI,
+P11,Vertebral transection or fully severed flipper(s),SI,
+P12,Body cavity penetration by foreign object or body cavity exposure,SI,
+P13,Partially severed or fractured flipper(s),Case specific,"Cleanliness (clean cut vs. tear), nature of injury causing the loss, extent of fin or flipper loss, opened or closed fracture, dislocation, amount/duration of blood loss"
+P14,"Dependent animal (i.e., pup, juvenile) released alone post-interaction or dependent animal left with a seriously injured or dead mother",SI,
+P15,Observed or reported collision with vessel,Case specific,"Speed of vessel, size of vessel, hull shape, part of vessel to strike the animal (e.g., propeller, hull), size of animal compared to size of vessel, location of strike on animal’s body, extent and location of wound(s) to animal"
+P16,"Observed or reported harassment, disturbance, feeding, or removal",Case specific,"Type, duration, and severity of harassment, age of animal, seasonality (e.g., breeding, annual molt) behavioral state, previous stressors and/or injuries, etc."

@@ -143,3 +143,30 @@ We thank the onboard observers, at-sea monitors, and stranding responders for co
 ## TABLES AND FIGURES
 
 ## REFERENCES CITED
+
+## APPENDIX. TABLES 2 and 3 FROM
+
+
+
+```{r}
+#| label: insert table 1
+
+tab1<-tibble(read.csv("../data/AppendixTable2.csv"))
+tab1|>
+  gt() |>
+   tab_header(
+    title = md("**Table 2**: Summary of Small Cetacean Injury Categories and Criteria")
+     ) |>
+     cols_align(
+    align = "center",
+    columns = 1:3
+    #) |>
+   # cols_label(
+    #Injury..Information = "Injury/Information",
+   # Injury.Determination = "Injury Determination"
+    )|>
+  opt_table_font(size= 11
+  )
+```
+
+ 
