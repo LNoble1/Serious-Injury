@@ -1,14 +1,14 @@
 project:
   type: website
   render:
-    - Small Cetacean and Pinnipeds/2018-2023.qmd
+    - Small CetPinn/MSI_smalls_2019-2013.qmd
  
 
 website:
   title: "MSI Report - IN DEVELOPMENT"
   navbar:
     left:
-      - file: Small Cetacean and Pinnipeds/2018-2023.qmd
+      - file: Small CetPinn/MSI_smalls_2019-2013.qmd
         text: MSI- 2018-2023 draft
 
 

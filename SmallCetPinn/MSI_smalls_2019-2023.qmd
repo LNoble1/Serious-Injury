@@ -1,0 +1,56 @@
+---
+title: "Pakicetus Stock B"
+subtitle: "_Pakicetus sp_"
+date: today
+publication-date: 2050-01-01
+date-format: "MMMM DD, YYYY"
+citeproc: true
+#bibliography: ../assets/references_pakicetus.yaml
+csl: ../assets/apa.csl
+
+author:
+  - name: Lauren Noble
+    email: carl.linnaeus@noaa.gov
+    orcid: 0000-0001-111-1111
+    affiliations:
+      - ref: 1
+  - name: Charles Darwin
+    email: charles.darwin@noaa.gov
+    affiliations:
+      - ref: 1
+
+affiliations:
+  - id: 1
+    name: Alaska Fisheries Science Center
+    department: National Marine Fisheries Service
+    address: 7600 Sand Point Way NE
+    city: Seattle
+    state: WA
+
+execute: 
+  echo: false
+  warning: false
+  message: false
+
+format:
+  html: 
+    out-width: "90%"
+    fig-width: 9
+    fig-asp: 0.618
+  nmfs-sar-pdf-typst:
+    nmfs-region: World
+    sar-year: 2025
+    stock-name: "Stock B"
+    common-name: "Pakicetus"
+    genus-species: "Pakicetus sp."
+    linenumbering: true
+    keep-typ: false
+    fig-width: 9
+    fig-asp: 0.618
+    fig-dpi: 600
+---
+INTRODUCTION
+
+The Marine Mammal Protection Act (MMPA) requires the National Marine Fisheries Service (NMFS) to estimate annual levels of human-caused mortality and serious injury to marine mammal stocks (Section 117) and to categorize commercial fisheries based on their level of incidental mortality and serious injury of marine mammals (Section 118). Serious injury determinations were addressed at NMFS-convened workshops in 1997 and 2007 (Angliss and DeMaster 1998; Andersen et al. 2008), and in January 2012, the agency published new national guidelines for distinguishing serious from non-serious injuries of marine mammals (NMFS 2012). The procedural directive was again updated in February 2023 (NMFS 2023). According to this procedural directive, a serious injury (SI) is defined as an injury that has a \>50% chance of resulting in a mortality (NMFS 2023). A major goal of the guidelines is to establish national consistency and transparency in SI determinations. To implement the new guidelines, Science Center SI determination staff (SID) are required to annually review the observer (OBS) and at-sea monitor (ASM) records on all incidentally caught marine mammals that were released alive. This year, the Northeast Fisheries Science Center (NEFSC) also reviewed live stranding reports of small cetaceans and pinnipeds for serious injury determinations. Determinations made on these human interactions are independently reviewed by another center (Southwest Fisheries Science Center (SWFSC)), the Greater Atlantic Regional Fisheries Office (GARFO), and the Atlantic Scientific Review Group (ASRG) before final determinations are published in this document.
+
+METHODS Electronic records of all small cetacean and pinniped bycatch that were coded as alive or condition unknown for the 5-year period (2018-2022) were extracted from the Northeast Fisheries Observer Program (NEFOP) database. A principal component of these records included OBS/ASM notes that provided information on entanglement characteristics (e.g., animal in cod end), crew handling (e.g., rope tied animal, animals lifted overboard), animal condition (e.g., cut on dorsal flank, some blood), and state of released animal (e.g., swam away quickly, swimming sluggishly at surface, immediately sank). These data were independently compared to small cetacean (S) and pinniped (P) criteria contained in the SI guidance document (Appendix) by 2 marine mammal researchers in the NEFSC Protected Species Division to determine their status (e.g., serious injury \[SI\], nonserious injury \[NSI\], uninjured \[UI\], Dead \[D\], or could not be determined \[CBD\]). The 2 evaluators compared their determinations, and all differences were discussed to obtain agreement. Details of each injury from the fishery observer programs and its determination are presented in Table 1. Final injury determinations and mortality events were tabulated to estimate the annual proportion of observed SI animals relative to the other observed determinations by gear type and species (Table 2). Proportions are used in stock assessment reports to partition the expanded bycatch estimate into serious injury vs. mortality (Hayes et al. 2024). Determinations for 2017-2021 have been previously published (Josephson and Lyssikatos 2023). Cases where a determination could not be made (CBD) were treated conservatively and included with the dead animals and hence represented in the final mortality and serious injury estimates reported in the annual stock assessment reports (Hayes et al. 2024). Offshore, migratory, and estuarine coastal bottlenose dolphin (Tursiops truncatus truncatus) injury determinations were analyzed and reported by the NOAA Fisheries Southeast Fisheries Science Center (Maze-Foley et al. 2019). Species codes and gear codes used in this report are contained, respectively, in Tables 3 and 4. The statistical area designations are presented in Figure 1. As a response to the ASRG and other agency reviews, the NMFS has started to include the serious injuries of marine mammals in stock assessment reports, as documented in the National Marine Mammal Health and Stranding database. In the Northeast, the majority of animals reported as live strandings with evidence of human interaction are pinnipeds. In the 2023 Marine Mammal Stock Assessment Report (2024), a table was provided in the gray seal (Halichoerus grypus) report that itemized gray seal serious injuries from 2017-2021 by type of interaction (fishery vs. other human interaction) and whether the animal was disentangled and released. Upon review of the 2022 data, and amid ongoing discussions with stranding network partners, managers, and scientific reviewers, it has been determined that a portion of the records that were in the database did not follow reporting guidelines that were in place at the time . Namely, these records represented sightings of entangled animals for which there was no stranding response. This resulted in unevenness in documentation of cases reported as entangled or injured animals and may also have resulted in double counting. We have made the decision, starting with the year 2022, to add the stranding database records to the serious injury determination process but only for cases that received stranding responses to be consistent with the national reporting guidelines. Table 5 itemizes and summarizes the 2022 stranding data that was reviewed, and Table 6 presents the 2017-2021 data previously reported in the gray seal stock assessment report. NOAA Fisheries is currently updating and clarifying the guidelines and forms for reporting live entangled pinnipeds, which will improve the data used in the future for serious injury determinations.
