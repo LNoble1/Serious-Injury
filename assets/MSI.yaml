@@ -751,4 +751,30 @@ references:
   URL: "http://dx.doi.org/10.1126/science.1111200"
   volume: 309
   
+- id: ProcessDistinguishingSerious2023
+  abstract: >-
+    The National Marine Fisheries Service (NMFS) announces final revisions to
+    the Process for Distinguishing Serious from Non-Serious Injury of Marine
+    Mammals. NMFS has incorporated public comments into the final Procedural
+    Directive and provides responses to public comments.
+  accessed:
+    - year: 2026
+      month: 7
+      day: 20
+  author:
+    - family: NMFS
+      given: ''
+  citation-key: ProcessDistinguishingSerious2023
+  container-title: Federal Register
+  issued:
+    - year: 2023
+      month: 2
+      day: 7
+  language: en
+  title: >-
+    Process for distinguishing serious From non-serious Injury of marine
+    mammals; Revisions to Procedural Directive
+  type: webpage
+  URL: >-
+    https://www.federalregister.gov/documents/2023/02/07/2023-02551/process-for-distinguishing-serious-from-non-serious-injury-of-marine-mammals-revisions-to-procedural  
 ...
