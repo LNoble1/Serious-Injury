@@ -1,0 +1,754 @@
+---
+references:
+- id: anglissDifferentiatingSeriousNonserious1998
+  abstract: >-
+    The NOAA IR serves as an archival repository of NOAA-published products
+    including scientific findings, journal articles, guidelines,
+    recommendations, or other information authored or co-authored by NOAA or
+    funded partners. As a repository, the NOAA IR retains documents in their
+    original published format to ensure public access to scientific information.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 4
+  author:
+    - family: Angliss
+      given: Robyn P.
+    - family: DeMaster
+      given: Douglas P.
+  citation-key: anglissDifferentiatingSeriousNonserious1998
+  genre: NOAA Technical Memorandum
+  issued:
+    - year: 1998
+  language: en
+  number: NMFS-OPR-13
+  title: >-
+    Differentiating serious and non-serious injury of marine mammals taken
+    incidental to commercial fishing operations report of the serious injury
+    workshop, 1-2 April 1997, Silver Spring, Maryland
+  type: report
+  URL: https://repository.library.noaa.gov
+
+- id: coleMortalitySeriousInjury2005
+  abstract: >-
+    As part of the 1994 amendments to the Marine Mammal Protection Act (MMPA),
+    the NOAA National Marine Fisheries Service (NMFS) was mandated to establish
+    monitoring programs to obtain statistically reliable estimates of incidental
+    mortality and serious injury of marine mammals taken during commercial
+    fishing operations. A serious injury has been defined as "any injury that
+    will likely result in mortality". Using guidelines recommended by NMFS's
+    1997 Serious Injury Workshop, the Northeast Fisheries Science Center
+    developed protocols for determining large whale serious injuries and
+    human-caused mortalities. We describe the protocols used and report on the
+    determinations made for right, humpback, fin, sei, blue, minke and Brydes
+    whale events that occurred from 1999 through 2003 along the eastern seaboard
+    of the United States. A total of 408 unique large whale events were reported
+    during the period, including both strandings and sightings at sea. These
+    included 173 entanglement reports and 37 reports of ship strikes. We were
+    able to verify 146 entanglement events, 25 ship strikes, and 267
+    mortalities. Entanglements were identified as the cause of 29 whale deaths
+    and ship strikes the cause of 18. Entanglements were determined to have
+    caused serious injury in 18 events. Minke whales had the greatest number of
+    entanglement mortalities (15). Humpback whales had the highest number of
+    serious injury events resulting from entanglements (12) and the most
+    incidents of ship strike mortalities (6). Right whales and fin whales each
+    had five mortalities from ship strikes. No serious injuries resulting from
+    ship strikes were confirmed for any species. These human-caused mortality
+    and serious injury rates represent the minimum levels of impact to these
+    stocks. Procedures and methods for estimating actual serious injury and
+    mortality rates have yet to be developed.
+  accessed:
+    - year: 2026
+      month: 4
+      day: 30
+  author:
+    - family: Cole
+      given: Timothy V. N.
+    - family: Hartley
+      given: Dana-Lyn R.
+    - family: Merrick
+      given: Richard L.
+  citation-key: coleMortalitySeriousInjury2005
+  genre: Northeast Fisheries Science Center reference document
+  issued:
+    - year: 2005
+  language: en
+  number: 05-08
+  title: 
+    Mortality and serious injury determinations for northwest Atlantic Ocean
+    large whale stocks 1999-2003
+  type: report
+  URL: https://repository.library.noaa.gov
+
+- id: fisheriesDifferentiatingSeriousNonSerious2019
+  abstract: >-
+    NOAA Technical Memorandum NMFS-OPR-39 10-13 September 2007, Seattle,
+    Washington
+  accessed:
+    - year: 2026
+      month: 4
+      day: 30
+  archive_location: National
+  author:
+    - family: Andersen
+      given: MS
+    - family: Forney
+      given: KA
+    - family: Cole
+      given: TVN
+    - family: Eagle
+      given: T
+    - family: Angliss
+      given: RP
+    - family: Long
+      given: K
+    - family: Barre
+      given: L
+    - family: Van Atta
+      given: L
+    - family: Borggaard
+      given: D
+    - family: Rowles
+      given: T
+    - family: Norberg
+      given: B
+    - family: Whaley
+      given: J
+    - family: Engleby
+      given: L
+  citation-key: fisheriesDifferentiatingSeriousNonSerious2019
+  genre: NOAA Technical Memorandum
+  issued:
+    - year: 2019
+  language: en
+  number: NMFS-OPR-39
+  title: >-
+    Differentiating serious and non-serious injury of marine mammals: Report of
+    the serious injury technical workshop
+  title-short: Differentiating Serious and Non-Serious Injury of Marine Mammals
+  type: report
+  URL: >-
+    https://www.fisheries.noaa.gov/resource/document/differentiating-serious-and-non-serious-injury-marine-mammals-report-serious
+
+- id: henryMortalityDeterminationsBaleen2014
+  accessed:
+    - year: 2014
+      month: 3
+      day: 25
+  author:
+    - family: Henry
+      given: Allison G.
+    - family: Cole
+      given: Timothy VN
+    - family: Hall
+      given: Lanni
+    - family: Ledwell
+      given: Wayne
+    - family: Morin
+      given: David
+    - family: Reid
+      given: Andrew
+  citation-key: henryMortalityDeterminationsBaleen2014
+  container-title: Northeast Fish Sci Cent Ref Doc 14-10
+  issued:
+    - year: 2014
+  page: '17'
+  source: Google Scholar
+  title: >-
+    Mortality determinations for baleen whale stocks along the Gulf of Mexico,
+    United States east coast, and Atlantic Canadian provinces, 2008-2012
+  type: article-journal
+  URL: https://repository.library.noaa.gov/view/noaa/4801
+
+- id: knowltonMonitoringNorthAtlantic2012
+  abstract: >-
+    ABSTRACT: Entanglement in non-mobile fishing gear has been identified as one
+    of the leading causes of mortality in North Atlantic right whales Eubalaena
+    glacialis. To investigate this issue further, all available photographs of
+    right whales taken from 1980 to 2009 were examined for evidence of
+    entanglement with gear used in fisheries based on presence of rope or
+    netting on the whale or scars inferred to have been caused by an encounter
+    with rope. Photographs of 626 individual whales were assessed and 1032
+    unique entanglement events were documented. Of the 626 animals, 519 (82.9%)
+    had been entangled at least once and 306 of the 519 (59.0%) had been
+    entangled more than once. Males and females were entangled at similar rates.
+    Juveniles were entangled at a higher rate than adults. On average, 25.9% of
+    adequately photographed animals acquired new wounds or scars from fishing
+    gear annually with no significant trend over time detected. However, the
+    annual percentage of animals observed with rope on the body increased
+    significantly during the study period, suggesting that it is becoming more
+    difficult for whales to free themselves completely from fishing gear. Such
+    high annual rates of entanglement remain a serious conservation concern for
+    right whales because entanglements can have both lethal and sub-lethal
+    effects. Federally required changes to fixed-gear fisheries in US waters
+    have not reduced serious injuries and mortality to legally required levels.
+    Here we show how documenting various annual rates of entanglement can
+    monitor progress and impacts that fishing gear regulations may have on right
+    whale recovery.
+  accessed:
+    - year: 2012
+      month: 10
+      day: 24
+  archive: http://www.int-res.com/abstracts/meps/v466/p293-302/
+  author:
+    - family: Knowlton
+      given: Amy R.
+    - family: Hamilton
+      given: Philip K.
+    - family: Marx
+      given: Marilyn K.
+    - family: Pettis
+      given: Heather M.
+    - family: Kraus
+      given: Scott D.
+  citation-key: knowltonMonitoringNorthAtlantic2012
+  container-title: Marine Ecology Progress Series
+  container-title-short: Mar Ecol Prog Ser
+  DOI: 10.3354/meps09923
+  issued:
+    - year: 2012
+      month: 10
+      day: 15
+  page: 293–302
+  source: Inter-Research Science Center
+  title: >-
+    Monitoring North Atlantic right whale *Eubalaena glacialis* entanglement
+    rates: a 30 yr retrospective
+  title-short: Monitoring North Atlantic right whale Eubalaena glacialis entanglement rates
+  type: article-journal
+  volume: '466'
+
+- id: krausRatesPotentialCauses1990
+  author:
+    - family: Kraus
+      given: S. D
+  citation-key: krausRatesPotentialCauses1990
+  container-title: Marine Mammal Science
+  container-title-short: Mar Mamm Sci
+  issue: '4'
+  issued:
+    - year: 1990
+  license: public
+  page: 278–291
+  source: Google Scholar
+  title: >-
+    Rates and potential causes of mortality in North Atlantic right whales
+    (*Eubalaena glacialis*).
+  type: article-journal
+  volume: '6'
+
+- id: lindenPopulationSizeEstimation2025
+  abstract: >-
+    This report serves to update the population size estimate of North Atlantic
+    right whales (Eubalaena glacialis; hereafter, right whales) for the most
+    recent year of available sightings data. Using an established
+    capture-recapture framework (Pace et al., 2017) and a new calf-integration
+    approach (Linden, 2025), the estimated median population size at the start
+    of 2024 was 384 whales, with a 95% credible interval ranging from 375 to
+    394. The sharp decrease in the population size observed from 2015-2020
+    appears to have slowed, although the right whale population continues to
+    experience annual mortalities above recovery thresholds. The updated right
+    whale population estimate will be provided to the Atlantic Scientific Review
+    Group for consideration in the 2026 Atlantic Stock Assessment Review
+    process.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 13
+  author:
+    - family: Linden
+      given: Daniel W.
+  citation-key: lindenPopulationSizeEstimation2025
+  DOI: 10.25923/ha3d-2f70
+  issued:
+    - year: 2025
+  language: en
+  number: Northeast Fisheries Science Center Technical Memorandum 338
+  title: Population size estimation of North Atlantic right whales from 1990-2024
+  type: report
+  URL: https://repository.library.noaa.gov/view/noaa/72014
+
+- id: mooreMorphometryGrossMorphology2005
+  author:
+    - family: Moore
+      given: M. J
+    - family: Knowlton
+      given: A. R
+    - family: Kraus
+      given: S. D
+    - family: Mc Lellan
+      given: W. A
+    - family: Bonde
+      given: R. K
+  citation-key: mooreMorphometryGrossMorphology2005
+  container-title: Journal of Cetacean Research and Management
+  container-title-short: J Cet Res Manag
+  issue: '3'
+  issued:
+    - year: 2005
+  page: 199–214
+  source: Google Scholar
+  title: >-
+    Morphometry, gross morphology and available histopathology in North Atlantic
+    right whale (*Eubalaena glacialis*) mortalities
+  type: article-journal
+  volume: '6'
+
+- id: paceiiiCrypticMortalityNorth2021
+  abstract: >-
+    Evaluations of the conservation status of the endangered North Atlantic
+    right whale as well as many other wildlife species often rely extensively on
+    counts and cause-of-death determinations of carcasses found accidentally or
+    during dedicated surveys. Even when survey effort dedicated to a population
+    is extensive, many deaths may go unseen. We used an abundance estimation
+    model to derive estimates of cryptic mortality for North Atlantic right
+    whales and found that observed carcasses accounted for only 36% of all
+    estimated death during 1990–2017. We found strong evidence that total
+    mortality varied over time, and that observed carcass counts were poor
+    predictors of estimated annual numbers of whales dying. Importantly, there
+    were substantial differences between fractions of deaths determined to be
+    entanglement related during necropsy (49%) and the fraction of cryptic
+    deaths suffering serious injuries related to entanglement (87%). Although we
+    concluded that a single year's observations produced poor estimates of
+    carcass detection rates due to the volatility of ratios of small counts,
+    ratio estimates of data pooled over periods of consistent survey may offer
+    better information on detection rates. Additionally, it appears unwise to
+    consider cause of death determinations from detected carcasses as
+    representative of cause-specific mortality rates in right whales given the
+    large number of seriously injured whales from entanglement that are likely
+    part of the unseen mortality.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 16
+  author:
+    - family: Pace III
+      given: Richard M.
+    - family: Williams
+      given: Rob
+    - family: Kraus
+      given: Scott D.
+    - family: Knowlton
+      given: Amy R.
+    - family: Pettis
+      given: Heather M.
+  citation-key: paceiiiCrypticMortalityNorth2021
+  container-title: Conservation Science and Practice
+  container-title-short: Cons Sci and Practice
+  DOI: 10.1111/csp2.346
+  ISSN: 2578-4854
+  issue: '2'
+  issued:
+    - year: 2021
+  language: en
+  license: >-
+    © 2021 The Authors. Conservation Science and Practice published by Wiley
+    Periodicals LLC. on behalf of Society for Conservation Biology
+  page: e346
+  source: Wiley Online Library
+  title: Cryptic mortality of North Atlantic right whales
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/csp2.346
+  volume: '3'
+
+- id: paceiiiStateSpaceMark2017
+  abstract: >-
+    North Atlantic right whales (Eubalaena glacialis Müller 1776) present an
+    interesting problem for abundance and trend estimation in marine wildlife
+    conservation. They are long lived, individually identifiable, highly mobile,
+    and one of the rarest of cetaceans. Individuals are annually resighted at
+    different rates, primarily due to varying stay durations among several
+    principal habitats within a large geographic range. To date,
+    characterizations of abundance have been produced that use simple accounting
+    procedures with differing assumptions about mortality. To better
+    characterize changing abundance of North Atlantic right whales between 1990
+    and 2015, we adapted a state–space formulation with Jolly-Seber assumptions
+    about population entry (birth and immigration) to individual resighting
+    histories and fit it using empirical Bayes methodology. This hierarchical
+    model included accommodation for the effect of the substantial individual
+    capture heterogeneity. Estimates from this approach were only slightly
+    higher than published accounting procedures, except for the most recent
+    years (when recapture rates had declined substantially). North Atlantic
+    right whales' abundance increased at about 2.8% per annum from median point
+    estimates of 270 individuals in 1990 to 483 in 2010, and then declined to
+    2015, when the final estimate was 458 individuals (95% credible intervals
+    444–471). The probability that the population's trajectory post-2010 was a
+    decline was estimated at 99.99%. Of special concern was the finding that
+    reduced survival rates of adult females relative to adult males have
+    produced diverging abundance trends between sexes. Despite constraints in
+    recent years, both biological (whales' distribution changing) and logistical
+    (fewer resources available to collect individual photo-identifications), it
+    is still possible to detect this relatively recent, small change in the
+    population's trajectory. This is thanks to the massive dataset of individual
+    North Atlantic right whale identifications accrued over the past three
+    decades. Photo-identification data provide biological information that
+    allows more informed inference on the status of this species.
+  accessed:
+    - year: 2026
+      month: 3
+      day: 9
+  author:
+    - family: Pace III
+      given: Richard M.
+    - family: Corkeron
+      given: Peter J.
+    - family: Kraus
+      given: Scott D.
+  citation-key: paceiiiStateSpaceMark2017
+  container-title: Ecology and Evolution
+  container-title-short: Ecol and Evol
+  DOI: 10.1002/ece3.3406
+  ISSN: 2045-7758
+  issue: '21'
+  issued:
+    - year: 2017
+  language: en
+  license: >-
+    © 2017 The Authors. Ecology and Evolution published by John Wiley & Sons
+    Ltd.
+  page: 8730–8741
+  source: Wiley Online Library
+  title: >-
+    State–space mark–recapture estimates reveal a recent decline in abundance of
+    North Atlantic right whales
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.3406
+  volume: '7'
+
+- id: palsbollStockStructureComposition2001
+  author:
+    - family: Palsbøll
+      given: PJ
+    - family: Allen
+      given: J
+    - family: Anderson
+      given: TH
+    - family: Bérubé
+      given: M
+    - family: Clapham
+      given: PJ
+    - family: Feddersen
+      given: TP
+    - family: Friday
+      given: 'N'
+    - family: Hammond
+      given: P
+    - family: Jørgensen
+      given: H
+    - family: Katona
+      given: SK
+    - family: Larsen
+      given: AH
+    - family: Larsen
+      given: F
+    - family: Lien
+      given: J
+    - family: Matila
+      given: DK
+    - family: Nygaard
+      given: FB
+    - family: Robbins
+      given: J
+    - family: Sponer
+      given: R
+    - family: Sears
+      given: R
+    - family: Sigurjónsson
+      given: J
+    - family: Smith
+      given: TD
+    - family: Stevick
+      given: PT
+    - family: Vikingsson
+      given: G
+    - family: Øien
+      given: 'N'
+  citation-key: palsbollStockStructureComposition2001
+  container-title: Scientific Committee meeting document SC/53/NAH11
+  issued:
+    - year: 2001
+  publisher-place: International Whaling Commission, Cambridge, UK.
+  title: >-
+    Stock structure and composition of the North Atlantic humpback whale,
+    *Megaptera novaeangliae*
+  type: paper-conference
+  URL: International Whaling Commission, Cambridge, UK.
+
+- id: robbinsScarbasedInferenceGulf20110
+  author:
+    - family: Robbins
+      given: Jooke
+  citation-key: robbinsScarbasedInferenceGulf20110
+  genre: >-
+    Report to the Northeast Fisheries Science Center, National Marine Fisheries
+    Service
+  issued:
+    - year: 2010
+  publisher-place: Woods Hole, Massachusetts, USA
+  source: ResearchGate
+  title: 'Scar-based inference into Gulf of Maine humpback whale entanglement: 2008'
+  title-short: Scar-based inference into Gulf of Maine humpback whale entanglement
+  type: report
+  URL: https://repository.library.noaa.gov/view/noaa/27120
+
+- id: wellsCarcassrecoveryRatesResident2015
+  accessed:
+    - year: 2016
+      month: 2
+      day: 12
+  author:
+    - family: Wells
+      given: Randall S.
+    - family: Allen
+      given: Jason B.
+    - family: Lovewell
+      given: Gretchen
+    - family: Gorzelany
+      given: Jay
+    - family: Delynn
+      given: Ruth E.
+    - family: Fauquier
+      given: Deborah A.
+    - family: Barros
+      given: Nélio B.
+  citation-key: wellsCarcassrecoveryRatesResident2015
+  container-title: Marine Mammal Science
+  container-title-short: Mar Mam Sci
+  DOI: 10.1111/mms.12142
+  ISSN: 1748-7692
+  issue: '1'
+  issued:
+    - year: 2015
+      month: 1
+      day: 1
+  language: en
+  license: © 2014 Society for Marine Mammalogy
+  page: 355–368
+  source: Wiley Online Library
+  title: >-
+    Carcass-recovery rates for resident bottlenose dolphins in Sarasota Bay,
+    Florida
+  type: article-journal
+  URL: http://onlinelibrary.wiley.com/doi/10.1111/mms.12142/abstract
+  volume: '31'
+
+- id: williamsUnderestimatingDamageInterpreting2011
+  abstract: >-
+    Evaluating impacts of human activities on marine ecosystems is difficult
+    when effects occur out of plain sight. Oil spill severity is often measured
+    by the number of marine birds and mammals killed, but only a small fraction
+    of carcasses are recovered. The Deepwater Horizon/BP oil spill in the Gulf
+    of Mexico was the largest in the U.S. history, but some reports implied
+    modest environmental impacts, in part because of a relatively low number
+    (101) of observed marine mammal mortalities. We estimate historical
+    carcass-detection rates for 14 cetacean species in the northern Gulf of
+    Mexico that have estimates of abundance, survival rates, and stranding
+    records. This preliminary analysis suggests that carcasses are recovered, on
+    an average, from only 2% (range: 0–6.2%) of cetacean deaths. Thus, the true
+    death toll could be 50 times the number of carcasses recovered, given no
+    additional information. We discuss caveats to this estimate, but present it
+    as a counterpoint to illustrate the magnitude of misrepresentation implicit
+    in presenting observed carcass counts without similar qualification. We urge
+    methodological development to develop appropriate multipliers. Analytical
+    methods are required to account explicitly for low probability of carcass
+    recovery from cryptic mortality events (e.g., oil spills, ship strikes,
+    bycatch in unmonitored fisheries and acoustic trauma).
+  accessed:
+    - year: 2011
+      month: 9
+      day: 7
+  author:
+    - family: Williams
+      given: Rob
+    - family: Gero
+      given: Shane
+    - family: Bejder
+      given: Lars
+    - family: Calambokidis
+      given: John
+    - family: Kraus
+      given: Scott D
+    - family: Lusseau
+      given: David
+    - family: Read
+      given: Andrew J
+    - family: Robbins
+      given: Jooke
+  citation-key: williamsUnderestimatingDamageInterpreting2011
+  container-title: Conservation Letters
+  container-title-short: Cons Lett
+  DOI: 10.1111/j.1755-263X.2011.00168.x
+  ISSN: 1755-263X
+  issue: '3'
+  issued:
+    - year: 2011
+      month: 6
+      day: 1
+  language: en
+  page: 228–233
+  source: Wiley Online Library
+  title: >-
+    Underestimating the damage: interpreting cetacean carcass recoveries in the
+    context of the Deepwater Horizon/BP incident
+  title-short: Underestimating the damage
+  type: article-journal
+  URL: http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2011.00168.x/abstract
+  volume: '4'
+
+- id: zotero-item-14196
+  author:
+    - family: Hamilton
+      given: PK
+    - family: Knowlton
+      given: AR
+    - family: Howe
+      given: KR
+    - family: Marx
+      given: MK
+    - family: McPherson
+      given: KD
+    - family: Pettis
+      given: HM
+    - family: Warren
+      given: AM
+    - family: Vance
+      given: SI
+    - family: Zani
+      given: MA
+  citation-key: zotero-item-14196
+  issued:
+    - year: 2011
+  number: 
+    Contract report no. 1305M2-18-P-NFFM-0108 to the NMFS Northeast Fisheries
+    Science Center
+  publisher: Anderson Cabot Center for Ocean Life, New England Aquarium
+  publisher-place: Boston, MA
+  title: 
+    Maintenance of the North Atlantic right whale catalog, whale scarring and
+    visual health databases, anthropogenic injury case studies, and near
+    real-time matching for biopsy efforts, entangled, injured, sick, or dead
+    right whales
+  type: report
+  URL: https://www.narwc.org/narw-catalog-reports.html
+
+- id: zotero-item-14419
+  citation-key: zotero-item-14419
+  issued:
+    - year: 1972
+      month: 10
+      day: 21
+  number: Pub. L. No. 92-522, 86 Stat. 1027. Sect. 118
+  title: MMPA 1972 -section 118 
+  type: legislation
+
+- id: zotero-item-14418
+  citation-key: zotero-item-14418
+  issued:
+    - year: 1972
+      month: 10
+      day: 21
+  number: Pub. L. No. 92-522, 86 Stat. 1027. Sect. 117
+  title: MMPA 1972 - section 117
+  type: legislation
+
+- id: zotero-item-14420
+  author:
+    - family: Kraus
+      given: SD
+    - family: Brown
+      given: MW
+    - family: Clark
+      given: CW
+    - family: Fujiwara
+      given: M
+    - family: Hamilton
+      given: PK
+    - family: Kenney
+      given: RD
+    - family: Knowlton
+      given: AR
+    - family: Landry
+      given: S
+    - family: Mayo
+      given: CA
+    - family: McLellan
+      given: WA
+    - family: Moore
+      given: MJ
+    - family: Nowacek
+      given: DP
+    - family: Pabst
+      given: A
+    - family: Read
+      given: AJ
+    - family: Rolland
+      given: R
+  citation-key: zotero-item-14420
+  container-title: Science
+  container-title-short: Science
+  DOI: 10.1126/science.1111200
+  issue: '5734'
+  issued:
+    - year: 2005
+  page: 561–562
+  title: North Atlantic right whales in crisis
+  type: article-journal
+  URL: https://www.science.org/doi/10.1126/science.1111200
+  volume: '309'
+- id: kraus2005
+  author:
+  - family: Kraus
+    given: Scott D.
+  - family: Brown
+    given: Moira W.
+  - family: Caswell
+    given: Hal
+  - family: Clark
+    given: Christopher W.
+  - family: Fujiwara
+    given: Masami
+  - family: Hamilton
+    given: Philip K.
+  - family: Kenney
+    given: Robert D.
+  - family: Knowlton
+    given: Amy R.
+  - family: Landry
+    given: Scott
+  - family: Mayo
+    given: Charles A.
+  - family: McLellan
+    given: William A.
+  - family: Moore
+    given: Michael J.
+  - family: Nowacek
+    given: Douglas P.
+  - family: Pabst
+    given: D. Ann
+  - family: Read
+    given: Andrew J.
+  - family: Rolland
+    given: Rosalind M.
+  container-title: Science
+  container-title-short: Science
+  DOI: 10.1126/science.1111200
+  is-referenced-by-count: 242
+  ISSN: 0036-8075
+  issue: 5734
+  issued: 2005-07-22
+  language: en
+  member: 221
+  page: 561-562
+  prefix: 10.1126
+  providerKey: doi
+  publisher: American Association for the Advancement of Science (AAAS)
+  reference-count: 11
+  references-count: 11
+  score: 1
+  source: Crossref
+  title: North Atlantic Right Whales in Crisis
+  type: article-journal
+  URL: "http://dx.doi.org/10.1126/science.1111200"
+  volume: 309
+  
+...

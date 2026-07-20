@@ -5,7 +5,7 @@ date: today
 publication-date: 2050-01-01
 date-format: "MMMM DD, YYYY"
 citeproc: true
-#bibliography: ../assets/references_pakicetus.yaml
+#bibliography: ../assets/MSI.yaml
 csl: ../assets/apa.csl
 
 author:
@@ -147,8 +147,6 @@ We thank the onboard observers, at-sea monitors, and stranding responders for co
 
 ## APPENDIX. TABLES 2 and 3 FROM
 
-
-
 ```{r}
 #| label: insert table 1
 
@@ -174,5 +172,3 @@ tab1|>
     locations = cells_body(columns = 3, rows = 1)
   )
 ```
-
- 
