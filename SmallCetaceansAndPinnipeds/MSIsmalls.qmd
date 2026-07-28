@@ -150,7 +150,7 @@ We thank the onboard observers, at-sea monitors, and stranding responders for co
 ```{r}
 #| label: insert table 1
 
-tab1<-tibble(read.csv("../data/AppendixTable2.csv"))
+tab1<-tibble(read.csv("../data/AppendixTable3.csv"))
 tab1|>
   gt() |>
    tab_header(
