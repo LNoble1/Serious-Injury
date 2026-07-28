@@ -1,0 +1,27 @@
+Category,Injury/Information,Injury Determination,Additional factors for evaluating whether “case specific” injuries are serious or non-serious (additional factors at end of table) *
+S1,"A free-swimming animal observed at a date later than its human interaction, exhibiting signs of declining health believed to be resulting from initial injury (e.g., a marked skin discoloration, fat loss)",SI,
+S2,Ingested gear or hook(s),SI,
+S3,Visible blood loss,Case specific,"Amount of blood, location of the bleeding injury, duration of bleeding"
+S4,"Animal brought on vessel deck following entanglement/entrapment (excluding scientific research targeting marine mammals and authorized as such under an NMFS scientific research permit, where the animal is brought on and placed on the vessel deck in a controlled manner)",SI,
+S5a,"Hook(s) in head (excluding criterion S5b), regardless of the presence of gear",SI,
+S5b,"Hook(s) confirmed in lip only, external tissue outside of teeth, no trailing gear",Case specific,"Prolonged restraint or struggle that could lead to capture myopathy, size of hook, depth of hooking, impairing ability to feed, presence of other injuries"
+S5c,"Hook(s) in any body part, but hook(s) is removed or pulls out",Case specific,"Prolonged restraint or struggle that could lead to capture myopathy, depth of hook, hook pulls out cleanly vs. causes further injury during dehooking, method used to remove hook, length of time hooked"
+S5d,"Hook(s) in appendage or body (excluding criterion S5a), without trailing gear or with trailing gear that does not have the potential to: 1) become a constricting wrap on animal; 2) be ingested; 3) accumulate drag; or 4) become snagged on something in the environment, anchoring the animal",Case specific,"Prolonged restraint or struggle that could lead to capture myopathy, depth and location of hook, type and amount of gear attached"
+S6,"Gear attached to free-swimming animal with potential to: 1) become a constricting wrap on animal; 2) be ingested; 3) accumulate drag; or 4) become snagged on something in the environment, anchoring the animal",SI,
+S7a,"Anchored, immobilized, or entrapped and not freed",SI,
+S7b,"Anchored, immobilized, entangled, or entrapped before being freed without gear attached",Case specific,"Duration of entanglement/entrapment, prolonged restraint or struggle that could lead to capture myopathy, gear type, where/how gear is attached to animal, associated injury (i.e., where directly or indirectly caused by initial entanglement), response of individual animal, method used by human to remove gear from animal"
+S8a,Gear wrapped and constricting on any body part or is likely to become constricting as the animal moves or grows,SI,
+S8b,Gear wrapped and loose on any body part,Case specific,"Gear type, amount of gear, potential for snag, potential to lead to criterion S8a, animal body size relative to gear (e.g., because of species or age), effect on animal movement, species sensitivity (e.g., frightens easily)"
+S9,Body trauma not covered by any other criteria,Case specific,"Location of wound, depth (e.g., superficial or to the bone, penetrating muscle or organs), length, number of lacerations, cleanliness (i.e., compression vs. tearing)"
+S10,"Visible fracture(s), excluding pectoral fins (see criterion S13d for pectoral fin fractures)",SI,
+S11,"Vertebral transection, including fully severed flukes",SI,
+S12,Body cavity penetration by foreign object or body cavity exposure,SI,
+S13a,Loss or disfigurement of dorsal fin,Case specific,"Cleanliness (i.e., compression vs. tearing), nature of injury causing the loss, extent of fin loss (i.e., full or partial), amount and duration of blood loss"
+S13b,"Partially severed flukes, transecting midline",SI,
+S13c,"Partially severed flukes, not transecting midline",Case specific,"Cleanliness (i.e., compression vs. tearing), nature of injury causing the loss, amount and duration of blood loss"
+S13d,Partially or completely severed or fractured pectoral fin(s),Case specific,"Cleanliness (i.e., compression vs. tearing), nature of injury causing the loss, extent of fin loss (i.e., full or partial), amount and duration of blood loss, opened or closed fracture"
+S14,Social animal separated from group and/or released alone post-interaction (excluding criterion S15),Case specific,"Species (e.g., sensitivity, offshore vs. inshore), location of release (e.g., likelihood of animal locating its conspecifics)"
+S15,"Dependent animal (i.e., calf, juvenile) released alone post-interaction or dependent animal left with a seriously injured or dead mother",SI,
+S15a,"Dependent animal (i.e., non-weaned calf) released alone post-interaction and separated from its mother",SI,
+S15b,"Dependent animal (i.e., non-weaned calf) left with a seriously injured or dead mother",SI,
+S16,Observed or reported collision with vessel,Case specific,"Speed of vessel, size of vessel, hull shape, part of vessel to strike the animal, size of animal compared to size of vessel, behavior of animal after collision, extent and location of wound(s) on animal"
