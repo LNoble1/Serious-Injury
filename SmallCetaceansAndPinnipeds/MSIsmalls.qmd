@@ -148,7 +148,6 @@ We thank the onboard observers, at-sea monitors, and stranding responders for co
 ## APPENDIX. TABLES 2 and 3 FROM
 
 ```{r}
-
 #| label: insert table 2
 
 app2<-tibble(read.csv("../data/AppendixTable2.csv"))
@@ -168,42 +167,51 @@ app2|>
     )|>
   opt_table_font(size= 11
 )|>
+  tab_footnote(
+    footnote = "For the purposes of this table, small cetaceans include all odontocetes except sperm whales.",
+    locations = cells_title(groups = "title")
+  )|>
+      tab_footnote(
+    footnote = "This table includes on only those criteria determined to be serious injuries or case specific based on expert opinion at the 2007 Workshop (Andersen et al. 2008) and by small cetacean experts on the NMFS Determination Staff working group. For the purposes of streamlining the information for the reader, criteria determined to be non-serious injuries are not included in this table.",
+    locations = cells_column_labels(columns = 3)
+    )|>
     tab_footnote(
-    footnote = "This table includes on only those criteria determined to be serious injuries or case specific based on expert opinion at the 2007 Workshop (Andersen et al., 2008) and by pinniped experts on the NMFS Determination Staff working group. For the purposes of streamlining the information for the reader, criteria determined to be non-serious injuries are not included in this table.",
+    footnote = "SI=serious injury",
     locations = cells_body(columns = 3, rows = 1)
     )|>
       tab_footnote(
     footnote = "For the purposes of this table, gear is defined as any portion of fishing gear excluding the hook, which is considered separately. Lures are considered gear. Gear also generally refers to any type of debris entangling or attached to the animal.",
-    location = cells_body(columns = 2, rows = 2)
+    locations = cells_body(columns = 2, rows = 2)
     )|>
       tab_footnote(
-    footnote = "Case specific = Could be a serious or non-serious injury, but either 1) there is insufficient information about the impact of a particular injury, or 2) additional factors must be considered on a case-by-case basis to determine the severity.",
-    Location = cells_body(columns = 3, rows = 3) 
+   footnote = "Case specific  Could be a serious or non-serious injury, but either 1) there is insufficient information about the impact of a particular injury, or 2) additional factors must be considered on a case-by-case basis to determine the severity.",
+    locations = cells_body(columns = 3, rows = 3) 
      )|>
       tab_footnote(
-    footnote = "For the purposes of this table, “potential” as it relates criterion S5d indicates that the trailing gear IS NOT capable of leading to any of the situations listed.",
-    Location = cells_body(columns = 2, row = 8)
+    footnote = "For the purposes of this table, 'potential' as it relates criterion S5d indicates that the trailing gear IS NOT capable of leading to any of the situations listed.",
+    locations = cells_body(columns = 2, row = 8)
+      )|>
+      tab_footnote(
+    footnote = "For the purposes of this table, 'potential' as it relates criterion S6 indicates that the trailing gear IS capable of leading to any of the situations listed, including: 1) if the remaining line is longer than the animal, regardless of where the line is attached and 2) if the remaining line is shorter than the animal, but attached in a location where the line could be ingested, wrap around a body part, or become snagged on something in the environment.",
+    locations = cells_body(columns = 2, row = 9)
      )|>
       tab_footnote(
-    footnote = "For the purposes of this table, potential as it relates criterion S6 indicates that the trailing gear IS capable of leading to any of the situations listed, including: 1) if the remaining line is longer than the animal, regardless of where the line is attached and 2) if the remaining line is shorter than the animal, but attached in a location where the line could be ingested, wrap around a body part, or become snagged on something in the environment.",
-    Location = cells_body(Columns = 2, Row = 9)
-     )|>
-      tab_footnote(
-    footnote = "For the purposes of this table, “immobilized” includes anchor lines, and how gear or other equipment is attached to the animal.",
-    Location = cells_body(Columns = 2, Row = 10)
+    footnote = "For the purposes of this table, 'immobilized' includes anchor lines, and how gear or other equipment is attached to the animal.",
+    locations = cells_body(columns = 2, row = 10)
     )|>
       tab_footnote(
-    footnote = "For the purposes of this table, “entrapment” could also include human-made structures (e.g., levees, lock systems, inlets, or jetties).",
-    Location = cells_body(Columns = 2, Row = 10)
+    footnote = "For the purposes of this table,'entrapment' could also include human-made structures (e.g., levees, lock systems, inlets, or jetties).",
+    locations = cells_body(columns = 2, row = 10)
     )|>
       tab_footnote(
-    footnote = "For the purposes of this table, “trauma” is defined as a wound or bodily harm caused by an extrinsic agent. Blunt trauma is an injury (abrasion, laceration, contusion or skeletal fracture) produced by a blunt object striking the body or impact of the body against a blunt object or surface. Sharp force trauma is an injury caused by a sharp or pointed object creating a penetrating (stab, chop or incision) wound. Laceration is defined as a ragged incision or a tearing of the skin. Lacerations are caused by blunt trauma that results in stretching, tearing, crushing, shearing, or avulsion of the tissue.",
-    Location = cells_body(Columns = 2, Row = 14)
+    footnote = "For the purposes of this table, 'trauma' is defined as a wound or bodily harm caused by an extrinsic agent. Blunt trauma is an injury (abrasion, laceration, contusion or skeletal fracture) produced by a blunt object striking the body or impact of the body against a blunt object or surface. Sharp force trauma is an injury caused by a sharp or pointed object creating a penetrating (stab, chop or incision) wound. Laceration is defined as a ragged incision or a tearing of the skin. Lacerations are caused by blunt trauma that results in stretching, tearing, crushing, shearing, or avulsion of the tissue.",
+    locations = cells_body(columns = 2, row = 14)
     )|>
       tab_footnote(
-    footnote = "For the purposes of this table, “penetration” is defined as a wound occurring when a foreign object punctures the body. Penetrating wounds can be characterized as one of three types: stab (small external wound that is greater in length into the body than is apparent on the skin surface), incised (clean cuts into the skin which are longer on the skin surface than they are deep), or chop wounds (incised wounds that penetrate deep to the bone, leaving a groove or cut in the bone).",
-    Location = cells_body(Columns = 2, Row = 17)
-
+    footnote = "For the purposes of this table, 'penetration' is defined as a wound occurring when a foreign object punctures the body. Penetrating wounds can be characterized as one of three types: stab (small external wound that is greater in length into the body than is apparent on the skin surface), incised (clean cuts into the skin which are longer on the skin surface than they are deep), or chop wounds (incised wounds that penetrate deep to the bone, leaving a groove or cut in the bone).",
+    locations= cells_body(columns = 2, row = 17)
+ 
+      )
 
 
 ```
@@ -230,6 +238,6 @@ tab1|>
 )|>
     tab_footnote(
     footnote = "This table includes on only those criteria determined to be serious injuries or case specific based on expert opinion at the 2007 Workshop (Andersen et al., 2008) and by pinniped experts on the NMFS Determination Staff working group. For the purposes of streamlining the information for the reader, criteria determined to be non-serious injuries are not included in this table.",
-    locations = cells_body(columns = 3, rows = 1)
+    locations = cells_column_labels(columns = 3)
   )
 ```
