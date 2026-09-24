@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+format: html
+---
+
+New MSI report
+
+
+
+```{r}
+##pull in current 5 year data table
+library(dplyr)
+library(gt)
+table1<-read.csv(paste0("../Large Whales/LargeWhaleMSI_files/2019-2023 MSI tables_508_v3.csv"))
+#table1_tbl<-tibble (table1)
+#table1_tbl
+RIWHtotal<-
+
+```
