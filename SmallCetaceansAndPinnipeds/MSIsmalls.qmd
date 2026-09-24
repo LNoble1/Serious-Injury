@@ -141,11 +141,12 @@ In 2002 and 2023, since the NEFSC started reviewing stranding records for human-
 #### Observer Records
 In 2022, the first year in which NEFSC reviewd stranding data for injury determination, only records for which a stranding response was mounted were reviewed. This included 2 harbor seal cases and 14 gray seal cases (Table 5). One of the harbor seals had wounds consistent with a boat strike. While responders treated the wound and felt like it may have been survivable, we have classified this case as CBD because the wound was fairly deep and the prognosis is unclear. The other harbor seal was anchored in entangling gear. Without the stranding agency response, the seal would have been considered a SI, but the post-mitigation status of the animal is assumed to be NSI because responders released it instead of bringing it to rehabilitation or euthanizing it. Thirteen of the gray seal cases were also disentanglements, placing them also into the SI pre-mitigation/NSI post-mitigation category. The last gray seal case was an animal described by stranding responders as having wounds consistent with a propeller strike. Photos of this case were not located, so it is being considered as CBD. 
 
-In 2023, 91 cases were reviewed for human-caused injury. 
+
 
 
 
 #### Stranding Records
+In 2023, 91 cases were reviewed for human-caused injury. 
 
 ## ACKNOWLEDGEMENTS
 
